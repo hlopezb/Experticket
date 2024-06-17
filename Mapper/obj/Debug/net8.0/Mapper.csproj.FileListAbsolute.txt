@@ -1,0 +1,17 @@
+C:\Users\usuario\source\repos\Mapper\obj\Debug\net8.0\Mapper.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\Mapper\obj\Debug\net8.0\Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\Mapper\obj\Debug\net8.0\Mapper.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\Mapper\obj\Debug\net8.0\Mapper.AssemblyInfo.cs
+C:\Users\usuario\source\repos\Mapper\obj\Debug\net8.0\Mapper.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Mapper\bin\Debug\net8.0\Mapper.deps.json
+C:\Users\usuario\source\repos\Mapper\bin\Debug\net8.0\Mapper.dll
+C:\Users\usuario\source\repos\Mapper\bin\Debug\net8.0\Mapper.pdb
+C:\Users\usuario\source\repos\Mapper\bin\Debug\net8.0\DataBase.dll
+C:\Users\usuario\source\repos\Mapper\bin\Debug\net8.0\Dtos.dll
+C:\Users\usuario\source\repos\Mapper\bin\Debug\net8.0\DataBase.pdb
+C:\Users\usuario\source\repos\Mapper\bin\Debug\net8.0\Dtos.pdb
+C:\Users\usuario\source\repos\Mapper\obj\Debug\net8.0\Mapper.csproj.Up2Date
+C:\Users\usuario\source\repos\Mapper\obj\Debug\net8.0\Mapper.dll
+C:\Users\usuario\source\repos\Mapper\obj\Debug\net8.0\refint\Mapper.dll
+C:\Users\usuario\source\repos\Mapper\obj\Debug\net8.0\Mapper.pdb
+C:\Users\usuario\source\repos\Mapper\obj\Debug\net8.0\ref\Mapper.dll
